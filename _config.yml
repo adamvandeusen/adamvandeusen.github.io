@@ -9,6 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://adamvandeusen.github.io" # the base hostname & protocol for your site
 twitter_username: adam_vandeusen
 github_username:  adamvandeusen
+github_token: 9f0ad294da1ab63c6b9be143ef0caf08fb448793
 linkedin_username: adamvandeusen
 
 # Build settings
